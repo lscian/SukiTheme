@@ -1,2 +1,2 @@
 # SukiTheme
-一个二次元风格FolkPatch主题
+一个二次元风格的FolkPatch主题
